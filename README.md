@@ -1,2 +1,1 @@
-# Predict-Hazard-Ratings-for-a-Maintenance-Project
-Predict Hazard Ratings for a Maintenance Project - ML project
+## Predict Hazard Ratings for a Maintenance Project - ML project
